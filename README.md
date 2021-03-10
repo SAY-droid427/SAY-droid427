@@ -8,7 +8,9 @@ I am Sayani Mallick, a full-stack web developer (MERN stack) , a competitive pro
 
 - 👯 I’m looking to collaborate on open source projects,mainly on Javascript and its frameworks.I would also love to contribute to any repository of data structures and algorithms.
 
-![Sayani's GitHub stats](https://github-readme-stats.vercel.app/api?username=SAY-droid&theme=monokai&show_icons=true)
+[![Sayani's GitHub stats](https://github-readme-stats.vercel.app/api?username=SAY-droid427&theme=monokai)](https://github.com/SAY-droid427/github-readme-stats)
+
+
 I am trying to encourage women in technology and trying to guide a few of my fellow mates into the world of programming.I have therefore, created a git repository, which contains roadmaps for full stack web development.This also contains resources like articles and video tutorial links that I found useful while learning web development. I have also created a repository for data structures and algorithms, which contain almost all the basic data structures that I have come across on my journey to study data structures and algorithms. I am looking forward to collaborations and contributions for enriching the repository. 
 <!--
 **SAY-droid427/SAY-droid427** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
