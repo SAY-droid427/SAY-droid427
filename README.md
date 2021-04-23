@@ -4,7 +4,7 @@ I am Sayani Mallick, a full-stack web developer (MERN stack) , a competitive pro
 
 - 🔭 I’m currently working on a plethora of projects on web development.
 
-- 🌱 I’m currently learning VueJS,Mobile development using React Native  
+- 🌱 I’m currently learning docker and devops
 
 - 👯 I’m looking to collaborate on open source projects,mainly on Javascript and its frameworks.I would also love to contribute to any repository of data structures and algorithms.
 
