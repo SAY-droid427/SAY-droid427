@@ -1,10 +1,10 @@
 
 ### Hi there 👋
-I am Sayani Mallick, a full-stack web developer (MERN stack) , a competitive programmer and an aspiring animation artist.I am an Open Souurce enthusiast.I am currently an Electronics And Communication Engineering student in BITS Pilani, KK Birla Goa Campus. I am a competitive coder and love to code in C++. I am currently trying to venture into the world of open source.  I love solving logical problems,puzzles and brain games. 
+I am Sayani Mallick, a full-stack web developer (MERN stack) , a competitive programmer and an aspiring animation artist.I am an Open Souurce enthusiast.I am currently an Electronics And Communication Engineering student in BITS Pilani, KK Birla Goa Campus. I am a competitive coder and love to code in C++. I have been an Outreachy intern at Eclipse Adoptium and have been a speaker at EclipseCON 2021. I
 
-- 🔭 I’m currently working on a plethora of projects on web development.
+- 🔭 I’m currently working on machine learning and artificial intelligence.
 
-- 🌱 I’m currently learning docker, devops and flutter
+- 🌱 I’m currently learning flutter and Raspberry Pi
 
 - 👯 I’m looking to collaborate on open source projects,mainly on Javascript and its frameworks.I would also love to contribute to any repository of data structures and algorithms.
 
@@ -12,26 +12,53 @@ I am Sayani Mallick, a full-stack web developer (MERN stack) , a competitive pro
 
 &nbsp;
  ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
- ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+ ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+
 
  
-&nbsp;
+<h4>&nbsp; Web Development</h4>
  ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
  ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
  ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
- ![React](https://img.shields.io/badge/react-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+ ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+ ![Vue](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
 
  
-&nbsp;
- ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
- ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+<h4> &nbsp; Backend Development </h4>
+ ![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
  ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
  ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) 
+ ![Firebase](https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)
+ ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+
+<h4> &nbsp; Mobile development </h4>
+
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+
+
+<h4> &nbsp; Machine Learning</h4>
+
+![Tensorflow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+
+
+
+<h4> &nbsp; Internet of Things</h4>
+
+![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=Raspberry%20Pi&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
  
-Connect with me on [LinkedIn](https://www.linkedin.com/in/sayani-mallick-80825018b)!
-Read articles I have authored at [Dev Community](https://dev.to/saydroid427)
+ <h4> &nbsp; Blogs</h4>
+ Read my blogs at: 
+![Dev Community](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)
+
+<h3> 🛠 &nbsp;Connect with me</h3>
+
+<a href="https://www.linkedin.com/in/sayani-mallick-80825018b/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="mailto:sayanimallick0218@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+
 <!--
 **SAY-droid427/SAY-droid427** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
