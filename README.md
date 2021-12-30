@@ -1,6 +1,6 @@
 
-### Hi there 👋
-I am Sayani Mallick, a full-stack web developer (MERN stack) , a competitive programmer and an aspiring animation artist.I am an Open Souurce enthusiast.I am currently an Electronics And Communication Engineering student in BITS Pilani, KK Birla Goa Campus. I am a competitive coder and love to code in C++. I have been an Outreachy intern at Eclipse Adoptium and have been a speaker at EclipseCON 2021. I
+## Hi there 👋
+I am Sayani Mallick, a full-stack web developer (MERN stack) , a competitive programmer and an aspiring animation artist.I am an Open Souurce enthusiast.I am currently an Electronics And Communication Engineering student in BITS Pilani, KK Birla Goa Campus. I am a competitive coder and love to code in C++. I have been an Outreachy intern at Eclipse Adoptium and have been a speaker at EclipseCON 2021. I am an enthusiastic and creative problem solver.
 
 - 🔭 I’m currently working on machine learning and artificial intelligence.
 
@@ -11,6 +11,7 @@ I am Sayani Mallick, a full-stack web developer (MERN stack) , a competitive pro
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
 <h3> &nbsp;Languages </h3>
+
  ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
  ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
@@ -18,6 +19,7 @@ I am Sayani Mallick, a full-stack web developer (MERN stack) , a competitive pro
 
  
 <h3> &nbsp;Web Development </h3>
+
  ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
  ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
  ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
@@ -27,6 +29,7 @@ I am Sayani Mallick, a full-stack web developer (MERN stack) , a competitive pro
 
  
 <h3> &nbsp;Backend Development </h3>
+
  ![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
  ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
  ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) 
@@ -35,13 +38,14 @@ I am Sayani Mallick, a full-stack web developer (MERN stack) , a competitive pro
 
 
 <h3> &nbsp;Mobile development </h3>
+
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 
 
 <h3> &nbsp;Machine Learning </h3>
+
 ![Tensorflow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-
-
+![Scikit Learn](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
 <h3> &nbsp;Internet of Things </h3>
 
@@ -49,7 +53,7 @@ I am Sayani Mallick, a full-stack web developer (MERN stack) , a competitive pro
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
  
  <h3> &nbsp;Blogs</h3>
- Read my blogs at: 
+ 
 ![Dev Community](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)
 
 <h3> &nbsp;Connect with me </h3>
