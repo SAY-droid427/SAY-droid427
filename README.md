@@ -17,7 +17,8 @@ I am Sayani Mallick, a full-stack web developer (MERN stack) , a competitive pro
 
 
  
-<h4>&nbsp; Web Development</h4>
+<h4>&nbsp;Web Development</h4>
+
  ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
  ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
  ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
