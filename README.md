@@ -8,8 +8,7 @@ I am Sayani Mallick, a full-stack web developer (MERN stack) , a competitive pro
 
 - 👯 I’m looking to collaborate on open source projects,mainly on Javascript and its frameworks.I would also love to contribute to any repository of data structures and algorithms.
 
-[![Sayani's GitHub stats](https://github-readme-stats.vercel.app/api?username=SAY-droid427&theme=monokai)](https://github.com/SAY-droid427/github-readme-stats)
-
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SAY-droid427)](https://github.com/SAY-droid427/github-readme-stats)
 Connect with me on [LinkedIn](https://www.linkedin.com/in/sayani-mallick-80825018b)!
 Read articles I have authored at [Dev Community](https://dev.to/saydroid427)
 <!--
