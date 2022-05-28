@@ -4,9 +4,9 @@ I am Sayani Mallick, a full-stack web developer (MERN stack) , a competitive pro
 
 - 🔭 I’m currently working on machine learning and artificial intelligence.
 
-- 🌱 I’m currently learning flutter and Raspberry Pi
+- 🌱 I’m currently learning blockchain and flutter.
 
-- 👯 I’m looking to collaborate on open source projects,mainly on Javascript and its frameworks.I would also love to contribute to any repository of data structures and algorithms.
+- 👯 I’m looking to collaborate on open source projects,mainly on Javascript and its frameworks.I am also looking for full time softwware development roles.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
